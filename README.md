@@ -1,4 +1,4 @@
-git clone https://github.com/Mahdi-Zitouni/odoo17.git --branch odoo17
-cd odoo17
-chmod +x install.sh
-./install.sh
+git clone https://github.com/mbhx5/odoo-17.git --branch odoo17 <br>
+cd odoo17<br>
+chmod +x install.sh<br>
+./install.sh<br>
