@@ -176,7 +176,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 # Set up Docker Compose services
 echo -e "\e[1;32mSetting up Docker Compose services...\e[0m"
-docker-compose up -d
+sudo docker-compose up -d
 
 # Display messages for Docker services with colors
 echo -e "\e[1;33mStarting Odoo service...\e[0m"  # Yellow color
